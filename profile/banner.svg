@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d">
+<title id="t">Flow Lab BR</title><desc id="d">Quatro blocos dourados ligados por linhas, como um fluxo de automação, ao lado do nome Flow Lab BR e da frase documentação do n8n em português.</desc><style>
+.ln{stroke-dasharray:6 10;animation:flow 1.6s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-32}}
+.cur{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.ln,.cur{animation:none}.ln{stroke-dasharray:none}}
+</style>
+<rect width="1280" height="320" rx="18" fill="#111111"/><path class="ln" d="M131.0 160 C182.0 160 182.0 79.0 233.0 79.0" fill="none" stroke="#c9a227" stroke-width="6.0" stroke-linecap="round" opacity=".75"/><path class="ln" d="M131.0 160 C182.0 160 182.0 241.0 233.0 241.0" fill="none" stroke="#c9a227" stroke-width="6.0" stroke-linecap="round" opacity=".75"/><path class="ln" d="M275.0 79.0 C326.0 79.0 326.0 160 377.0 160" fill="none" stroke="#c9a227" stroke-width="6.0" stroke-linecap="round" opacity=".75"/><path class="ln" d="M275.0 241.0 C326.0 241.0 326.0 160 377.0 160" fill="none" stroke="#c9a227" stroke-width="6.0" stroke-linecap="round" opacity=".75"/><rect class="nd n0" x="89.0" y="139.0" width="42.0" height="42.0" rx="7.5" fill="#c9a227" stroke="#c9a227" stroke-width="6.0"/><rect class="nd n1" x="233.0" y="58.0" width="42.0" height="42.0" rx="7.5" fill="#111111" stroke="#c9a227" stroke-width="6.0"/><rect class="nd n2" x="233.0" y="220.0" width="42.0" height="42.0" rx="7.5" fill="#111111" stroke="#c9a227" stroke-width="6.0"/><rect class="nd n3" x="377.0" y="139.0" width="42.0" height="42.0" rx="7.5" fill="#c9a227" stroke="#c9a227" stroke-width="6.0"/>
+<text x="560" y="150" font-family="Geist, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="72" fill="#f4f1ea">Flow Lab <tspan fill="#c9a227">BR</tspan></text>
+<text x="562" y="205" font-family="Geist, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" fill="#f4f1ea" opacity=".85">documentação do n8n em português</text>
+<text x="562" y="245" font-family="'Geist Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="20" fill="#c9a227">n8n docs in Portuguese · open source</text></svg>
