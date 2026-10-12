@@ -1,3 +1,5 @@
+<img src="banner.svg" width="100%" alt="Flow Lab BR, documentação do n8n em português">
+
 > [!WARNING]
 > ⚠️ **Projeto pausado:** esta documentação está muito desatualizada em relação às versões atuais do n8n. Consulte a [documentação oficial (docs.n8n.io)](https://docs.n8n.io).
 >
